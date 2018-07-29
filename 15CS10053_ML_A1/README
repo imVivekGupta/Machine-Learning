@@ -1,0 +1,7 @@
+++ The code is written in python3
+++ Make sure the code files are in the same directory as the included kc_house_data.csv file
+++ The files for the 4 parts are named as ass1_<part_no>.py where part_no is a,b,c or d
+++ To run part(a) for instance, execute the following command on terminal:
+	python ass1_a.py
+++ Sufficient information is displayed to inform what is being processed
+++ The variables and function names in the code files provide relevant information	
